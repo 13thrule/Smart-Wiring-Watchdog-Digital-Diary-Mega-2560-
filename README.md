@@ -12,13 +12,13 @@
 
 Visual overview of the system:
 
-![Smart Wiring Watchdog Infographic](infographic.png)
+![Smart Wiring Watchdog Infographic](SmartWiringWatchdog/infographic.png)
 
 ## Example Video
 
 See the tool in action:
 
-[![Watch the example video](example%20video.mp4)](example%20video.mp4)
+[Download the example video](example_video.mp4)
 
 ---
 
