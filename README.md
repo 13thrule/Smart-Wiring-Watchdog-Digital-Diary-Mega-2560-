@@ -18,7 +18,7 @@ Visual overview of the system:
 
 See the tool in action:
 
-[Download the example video](example_video.mp4)
+[Watch the demo on YouTube](https://youtube.com/shorts/zUa2srIs4KI?feature=share)
 
 ---
 
