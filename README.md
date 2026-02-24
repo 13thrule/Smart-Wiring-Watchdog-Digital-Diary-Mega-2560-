@@ -18,7 +18,7 @@ Visual overview of the system:
 
 See the tool in action:
 
-[Watch the demo on YouTube](https://youtube.com/shorts/zUa2srIs4KI?feature=share)
+[![Watch the demo on YouTube](https://img.youtube.com/vi/zUa2srIs4KI/0.jpg)](https://youtube.com/shorts/zUa2srIs4KI?feature=share)
 
 ---
 
